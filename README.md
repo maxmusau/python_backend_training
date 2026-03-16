@@ -19,7 +19,7 @@ systems process business rules and expose APIs**.
 ------------------------------------------------------------------------
 
 # Training Structure
-
+# Link to the training: [Training Program/ Schedule](https://docs.google.com/spreadsheets/d/1Qi2Yf5wQG9_D23cWgaYz4ahL6x5ipeYgMj4ITeP4zfE/edit?usp=sharing)
 ## Day 1 -- Python Backend Foundations
 
 Focus on Python concepts used in backend business logic.
